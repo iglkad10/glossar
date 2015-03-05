@@ -1,0 +1,71 @@
+body	{
+	background:#B6B6B4;
+	padding-left: 40px;
+	padding-left: 40px;
+	background-attachment: fixed;
+	
+	}
+#menutable{
+	background:url('Pics/TableBg.jpg');
+	}
+	
+th	{
+	font-size: 25px;
+	font-family: Verdana;
+	padding-left:50px;
+	}  
+a:link	{
+	color: blue;
+	text-decoration: none;
+	}
+a:visited	{
+	color: blue;
+	text-decoration: none;
+	}
+a:hover	{
+	color: red;
+	}
+table	{
+	color: red;
+	}
+h1	{
+	color: #09c882;
+	padding-left: 15px;}
+p	{
+	font-size: 20px;
+	padding-left: 8px;
+	}
+#newthreadtable{
+color:black;
+}
+h2	{
+	padding-left: 10px;
+	font-family: verdana;
+
+	}
+h3	{
+	padding-left: 10px;
+	font-family: verdana;
+}
+#ghost	{
+	padding-left: 5px;
+		}
+#mw3	{
+	padding-left: 10px;
+		}
+#form	{	
+	padding-left: 100px;
+		}
+#regform{
+	padding-left : 10px;
+}
+.footer
+{ 
+background-color:#b4c2d8;
+width:1031px;
+border:1px solid black;
+}
+#mid{
+width:1031px;
+border:1px solid black;
+}
