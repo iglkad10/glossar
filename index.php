@@ -3,7 +3,7 @@
   <section 	class="container">
     <div class="login">
       <h1>Login to HTL Shkodra's Glossar</h1>
-      <form method="post" action="">
+      <form method="post" action="login.php">
         <p><input type="text" name="username" value="" placeholder="Username or Email"></p>
         <p><input type="password" name="password" value="" placeholder="Password"></p>
         <p class="remember_me">
